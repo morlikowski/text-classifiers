@@ -1,2 +1,2 @@
-# text-classifiers
-A collection of Ipython/Jupyter notebooks explaining text classification approaches and related NLP/ML concepts 
+#Text classification
+This is a collection of Ipython/Jupyter notebooks introducing text classification approaches and related NLP/ML concepts. I use this mainly to document my learning process and keep track of stuff that I do/did in classes at Bielefeld University ((Semantic Computing Group)[http://www.sc.cit-ec.uni-bielefeld.de/index.php?id=29], (Dialogue Systems Group)[http://www.dsg-bielefeld.de/dsg_wp/], (Theoretical Computer Science for Cognitive Systems)[https://www.cit-ec.de/tcs/]) and University of Warwick ((Foundations of Data Analytics)[http://www2.warwick.ac.uk/fac/sci/dcs/teaching/modules/cs910/]). I put special emphasis on trying to understand and explain the involved math, as I have received comparatively little formal training so far. This might, hopefully, also be useful to others.
